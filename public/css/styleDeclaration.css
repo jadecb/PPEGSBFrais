@@ -1,0 +1,27 @@
+.card-body
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+h5, i, input,h3{
+  text-align: center;
+}
+
+
+hr
+{
+  width:75%;
+}
+
+.row{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.valider{
+  display: flex;
+  justify-content: center;
+}
